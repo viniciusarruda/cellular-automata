@@ -11,5 +11,5 @@
 
 **Note: This code is outdated. Was made when I started programming (:**
 
-For further information, read the article posted on [my website](https://viniciusarruda.github.io/blog/2017/08/21/cellular-automata/).
+For further information, read the article posted on [my website](https://viniciusarruda.github.io/projects/cellular-automata/).
 
